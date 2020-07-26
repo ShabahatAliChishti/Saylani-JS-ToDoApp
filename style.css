@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Recursive&display=swap');
+
+* {
+    font-family: 'Recursive', sans-serif;
+}
+
+#main {
+    margin: auto;
+    text-align: center;
+    border: 3px solid; 
+    width: 600px;
+}
+
+#todoList {
+    margin: 0 auto;
+}
+
+#todoItem {
+    border: 2px solid;
+    height: 20px;
+    width: 200px;
+}
+
+#addBtn {
+    background-color: greenyellow;
+    height: 50px;
+    border: none;
+    width: 100px;
+    margin: 10px;
+    color: white;
+}
+
+#clearBtn {
+    background-color: skyblue;
+    height: 50px;
+    border: none;
+    width: 150px;
+    color: white;
+}
+
+.editBtn {
+    background-color: lightslategray;
+    height: 50px;
+    border: none;
+    width: 150px;
+    margin: 10px;
+    color: white;
+}
+
+.deleteBtn {
+    background-color: red;
+    height: 50px;
+    border: none;
+    width: 150px;
+    margin: 10px;
+    color: white;
+}
+
